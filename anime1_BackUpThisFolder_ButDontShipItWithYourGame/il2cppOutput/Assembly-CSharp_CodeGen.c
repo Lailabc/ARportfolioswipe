@@ -1,0 +1,152 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void AnchorCreator_get_AnchorPrefab_mBBAF7805E9D9F8D79408EE642D153BC76306B25A (void);
+extern void AnchorCreator_set_AnchorPrefab_m53CC9CC3022C713826B44536B48B462C8A1FACFF (void);
+extern void AnchorCreator_RemoveAllAnchors_m6BA302DD9EECA47969FD3F6E5397441DCB09ED21 (void);
+extern void AnchorCreator_Awake_m8820A3F157354D7EDED7B2D7CE2BFA42844F1F8E (void);
+extern void AnchorCreator_Update_mA0A8BCCBAB0AE50DB087524E6273D11F1D6456D0 (void);
+extern void AnchorCreator__ctor_m702B01425680D7FD1C9272A423AAF8A913E5476E (void);
+extern void AnchorCreator__cctor_mDE519BED5D639DA8CD4FA7E389C3D97DF4BA54C4 (void);
+extern void ARFeatheredPlaneMeshVisualizer_get_featheringWidth_m14D3A8BE3E9A745E6FD525B19ADDC892B8399B4D (void);
+extern void ARFeatheredPlaneMeshVisualizer_set_featheringWidth_mD616A09A3B426EA5DE1FA37334DD194E43EEC110 (void);
+extern void ARFeatheredPlaneMeshVisualizer_Awake_mC5DB0414A2514BF4851266C25141C903F0AC57BA (void);
+extern void ARFeatheredPlaneMeshVisualizer_OnEnable_m8781C85CFED871C8A81A5B88DB1031856E0FC9F0 (void);
+extern void ARFeatheredPlaneMeshVisualizer_OnDisable_m2343B05B1A8F14BAD4DD516C584281B66FE6A4E8 (void);
+extern void ARFeatheredPlaneMeshVisualizer_ARPlane_boundaryUpdated_mB3D9BBD14EA1FE3ECDBACC2DB89C1B110B8B6B5F (void);
+extern void ARFeatheredPlaneMeshVisualizer_GenerateBoundaryUVs_mF756D3C1F7925A69CD8C7C8CCE56209AB321FEF5 (void);
+extern void ARFeatheredPlaneMeshVisualizer__ctor_m9A77651BCAE58AA0B994FFF6C6B63B1CFF2729F6 (void);
+extern void ARFeatheredPlaneMeshVisualizer__cctor_m56285A000EE27A1631BE9C5BCDA5C376E5D133C3 (void);
+extern void PageSwiper_Start_m165575325D62FB0F7B9A6FB76DBEA0E9827B7D0B (void);
+extern void PageSwiper_OnDrag_mBAFA3C61B26EA5F4A99A91AAB396FEBE0F43768A (void);
+extern void PageSwiper_OnEndDrag_m2E8B2E1E8799E984D2556F0440DB35470B8E32DF (void);
+extern void PageSwiper_SmoothMove_mD2CE7AB0747E2CC0F32A678DFBB0E7B54276EEEE (void);
+extern void PageSwiper__ctor_mDCC62955F28D7CE6ECB1C1A25F0A5C59632736EE (void);
+extern void U3CSmoothMoveU3Ed__8__ctor_mB8471AD06EF066F5CABF447796A54526022CE23F (void);
+extern void U3CSmoothMoveU3Ed__8_System_IDisposable_Dispose_mBFF1619CF1D2884F2FBD8BF3CDCFCFA28D34A68C (void);
+extern void U3CSmoothMoveU3Ed__8_MoveNext_m8D0F29FCA6772977D79A0A4FCBB148B84AA002DE (void);
+extern void U3CSmoothMoveU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m87C1900480120AFDEB9B85C804313E4ECE2C36C4 (void);
+extern void U3CSmoothMoveU3Ed__8_System_Collections_IEnumerator_Reset_m4B197A268D5A6CFD5B68E9BF07E84E27CD0D9F57 (void);
+extern void U3CSmoothMoveU3Ed__8_System_Collections_IEnumerator_get_Current_mE72A3738EBA5739DF402093FDE6228D45F6D8E59 (void);
+extern void PointAtCamera_OnEnable_m3626F9A896E6977FD0538AA8E74F88D07B605277 (void);
+extern void PointAtCamera_Update_m12FF661CEDF255CCD9DA96B450F7BF980A666483 (void);
+extern void PointAtCamera__ctor_mDB264F83D2988BAA99D28060477914824BE752EA (void);
+extern void UrlOpener_Open_mAD249C059AC68A5DE91151778603225C2A0C6CED (void);
+extern void UrlOpener_Start_m6B744AA6B5273D915FED70DA8D1B283AE23EC0B0 (void);
+extern void UrlOpener_Update_mBDCF3EB6748316EB6293D91767BF2E57C0A2BC3E (void);
+extern void UrlOpener__ctor_m3C02052631F864CAD739B7BBF86676133EE8345E (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_IsEditorOnly_m59E10A16B0BDEA496377805E39C3D90B1E2C4815 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_Get_mDAD527916A4779DB4ACAFEADC3BA7372671FA647 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes__ctor_mE2C680837D47039E3F06032AA8C63FEDB7E783A5 (void);
+static Il2CppMethodPointer s_methodPointers[37] = 
+{
+	AnchorCreator_get_AnchorPrefab_mBBAF7805E9D9F8D79408EE642D153BC76306B25A,
+	AnchorCreator_set_AnchorPrefab_m53CC9CC3022C713826B44536B48B462C8A1FACFF,
+	AnchorCreator_RemoveAllAnchors_m6BA302DD9EECA47969FD3F6E5397441DCB09ED21,
+	AnchorCreator_Awake_m8820A3F157354D7EDED7B2D7CE2BFA42844F1F8E,
+	AnchorCreator_Update_mA0A8BCCBAB0AE50DB087524E6273D11F1D6456D0,
+	AnchorCreator__ctor_m702B01425680D7FD1C9272A423AAF8A913E5476E,
+	AnchorCreator__cctor_mDE519BED5D639DA8CD4FA7E389C3D97DF4BA54C4,
+	ARFeatheredPlaneMeshVisualizer_get_featheringWidth_m14D3A8BE3E9A745E6FD525B19ADDC892B8399B4D,
+	ARFeatheredPlaneMeshVisualizer_set_featheringWidth_mD616A09A3B426EA5DE1FA37334DD194E43EEC110,
+	ARFeatheredPlaneMeshVisualizer_Awake_mC5DB0414A2514BF4851266C25141C903F0AC57BA,
+	ARFeatheredPlaneMeshVisualizer_OnEnable_m8781C85CFED871C8A81A5B88DB1031856E0FC9F0,
+	ARFeatheredPlaneMeshVisualizer_OnDisable_m2343B05B1A8F14BAD4DD516C584281B66FE6A4E8,
+	ARFeatheredPlaneMeshVisualizer_ARPlane_boundaryUpdated_mB3D9BBD14EA1FE3ECDBACC2DB89C1B110B8B6B5F,
+	ARFeatheredPlaneMeshVisualizer_GenerateBoundaryUVs_mF756D3C1F7925A69CD8C7C8CCE56209AB321FEF5,
+	ARFeatheredPlaneMeshVisualizer__ctor_m9A77651BCAE58AA0B994FFF6C6B63B1CFF2729F6,
+	ARFeatheredPlaneMeshVisualizer__cctor_m56285A000EE27A1631BE9C5BCDA5C376E5D133C3,
+	PageSwiper_Start_m165575325D62FB0F7B9A6FB76DBEA0E9827B7D0B,
+	PageSwiper_OnDrag_mBAFA3C61B26EA5F4A99A91AAB396FEBE0F43768A,
+	PageSwiper_OnEndDrag_m2E8B2E1E8799E984D2556F0440DB35470B8E32DF,
+	PageSwiper_SmoothMove_mD2CE7AB0747E2CC0F32A678DFBB0E7B54276EEEE,
+	PageSwiper__ctor_mDCC62955F28D7CE6ECB1C1A25F0A5C59632736EE,
+	U3CSmoothMoveU3Ed__8__ctor_mB8471AD06EF066F5CABF447796A54526022CE23F,
+	U3CSmoothMoveU3Ed__8_System_IDisposable_Dispose_mBFF1619CF1D2884F2FBD8BF3CDCFCFA28D34A68C,
+	U3CSmoothMoveU3Ed__8_MoveNext_m8D0F29FCA6772977D79A0A4FCBB148B84AA002DE,
+	U3CSmoothMoveU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m87C1900480120AFDEB9B85C804313E4ECE2C36C4,
+	U3CSmoothMoveU3Ed__8_System_Collections_IEnumerator_Reset_m4B197A268D5A6CFD5B68E9BF07E84E27CD0D9F57,
+	U3CSmoothMoveU3Ed__8_System_Collections_IEnumerator_get_Current_mE72A3738EBA5739DF402093FDE6228D45F6D8E59,
+	PointAtCamera_OnEnable_m3626F9A896E6977FD0538AA8E74F88D07B605277,
+	PointAtCamera_Update_m12FF661CEDF255CCD9DA96B450F7BF980A666483,
+	PointAtCamera__ctor_mDB264F83D2988BAA99D28060477914824BE752EA,
+	UrlOpener_Open_mAD249C059AC68A5DE91151778603225C2A0C6CED,
+	UrlOpener_Start_m6B744AA6B5273D915FED70DA8D1B283AE23EC0B0,
+	UrlOpener_Update_mBDCF3EB6748316EB6293D91767BF2E57C0A2BC3E,
+	UrlOpener__ctor_m3C02052631F864CAD739B7BBF86676133EE8345E,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_IsEditorOnly_m59E10A16B0BDEA496377805E39C3D90B1E2C4815,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_Get_mDAD527916A4779DB4ACAFEADC3BA7372671FA647,
+	UnitySourceGeneratedAssemblyMonoScriptTypes__ctor_mE2C680837D47039E3F06032AA8C63FEDB7E783A5,
+};
+static const int32_t s_InvokerIndices[37] = 
+{
+	6495,
+	5153,
+	6598,
+	6598,
+	6598,
+	6598,
+	10106,
+	6538,
+	5186,
+	6598,
+	6598,
+	6598,
+	5024,
+	5153,
+	6598,
+	10106,
+	6598,
+	5153,
+	5153,
+	1134,
+	6598,
+	5118,
+	6598,
+	6389,
+	6495,
+	6598,
+	6495,
+	6598,
+	6598,
+	6598,
+	6598,
+	6598,
+	6598,
+	6598,
+	10032,
+	10062,
+	6598,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	37,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
