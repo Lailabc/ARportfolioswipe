@@ -338,7 +338,9 @@
           },
           {
             "name": "RenderTexture",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/004-SelectedAttemp.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -376,9 +378,7 @@
           },
           {
             "name": "Sprite",
-            "scenes": [
-              "Assets/Scenes/004-SelectedAttemp.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -728,9 +728,7 @@
           },
           {
             "name": "MeshCollider",
-            "scenes": [
-              "Assets/Scenes/004-SelectedAttemp.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
