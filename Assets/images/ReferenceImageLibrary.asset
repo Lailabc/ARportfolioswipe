@@ -21,9 +21,9 @@ MonoBehaviour:
       m_GuidLow: 4776832579645037600
       m_GuidHigh: 11955908144146872462
     m_SerializedTextureGuid:
-      m_GuidLow: 946932588705301157
-      m_GuidHigh: 13125689607133418
-    m_Size: {x: 0.16, y: 0.16}
+      m_GuidLow: 16961760040982986226
+      m_GuidHigh: 6037245132163922553
+    m_Size: {x: 0.8890511, y: 0.58}
     m_SpecifySize: 1
     m_Name: qr-2
-    m_Texture: {fileID: 2800000, guid: 200542a52e2c0d24ea1877c2bea12e00, type: 3}
+    m_Texture: {fileID: 2800000, guid: d834bdf246e3eb64793a9604769ac853, type: 3}
